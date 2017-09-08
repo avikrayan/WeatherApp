@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/avik/.android/build-cache/353030b8c5b0eaf098e67773eddbafd2404c9431/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/layout-v21/notification_action.xml"
+    }
+]

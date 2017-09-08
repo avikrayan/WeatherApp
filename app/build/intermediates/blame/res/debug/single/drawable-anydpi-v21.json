@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_home.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/sunset_sunrise.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/sunset_sunrise.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_windturbine.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_windturbine.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_humidity.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_humidity.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_refresh.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_refresh.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_close.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_close.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_sunrise_sunset.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sunrise_sunset.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_visibility.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_visibility.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_thermometer.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_thermometer.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/avik/.android/build-cache/7ede72b925b6f7357c26bc13e9faa6cc39179340/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_wind.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_wind.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_location.xml",
+        "source": "/home/avik/Documents/Weather/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_location.xml"
+    },
+    {
+        "merged": "/home/avik/Documents/Weather/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/avik/.android/build-cache/7ede72b925b6f7357c26bc13e9faa6cc39179340/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]
